@@ -15,7 +15,7 @@ button{
 }
 button:hover{background-color: #555555;color: white;}
 
-a {text-decoration: none; color: #0080db;}
+a {text-decoration: none; color: #007aff;}
 
 table{
     border: solid 0x;
@@ -49,24 +49,22 @@ td {
     padding-left: 10px;
     padding-right: 10px;
 }
-#root input[type="text"]:focus{border: 1px solid #0094ff;box-shadow: 0 0 5px #0094ff;}
+#root input[type="text"]:focus{border: 1px solid #007aff;box-shadow: 0 0 5px #007aff;}
 #root input[type="checkbox"]{
     width: 1.3em;
     height: 1.3em;
 }
 #root > div{padding: 15px;margin:0;position: relative;user-select: none;-moz-user-select: none;-ms-user-select: none;-webkit-user-select: none;background: #f8f8f8;border: thin solid #cbcbcb;border-radius: 5px;}
 #root > div > div:nth-child(2) > p:first-child {
-    font-size: 1.6em;
+    font-size: 1.5em;
     font-weight: bold;
     text-align: center;
 }
 #root > div > div:nth-child(2) > div > p:first-child {font-size: 1.1em;font-weight: bold;}
 
-.top-menu-left svg {cursor: pointer; padding: 4px 0 0 5px; height: 30px; color: #159dff; fill: currentColor;}
-.top-menu-left a {margin-left: 5px;}
-
-.top-menu-home svg {cursor: pointer; padding: 4px 0 0 5px; height: 30px; color: #159dff; fill: currentColor;}
-
+.top-menu table{height: 30px;}
+.top-menu svg {cursor: pointer; padding: 4px 0 0 5px; height: 20px; color: #007aff; fill: currentColor;}
+.top-menu a {margin-left: 5px;}
 
 .deleted-tasks td {color: #555555;text-decoration: line-through; color: #999999;}
 
