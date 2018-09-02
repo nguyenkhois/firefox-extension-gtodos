@@ -1,4 +1,4 @@
-# Firefox extension - gToDos [![gToDos](https://img.shields.io/badge/Firefox%20add--on-v1.0.9-blue.svg)](https://addons.mozilla.org/en-US/firefox/addon/gtodos/)
+# Firefox extension - gToDos [![gToDos](https://img.shields.io/badge/Firefox%20add--on-v1.0.10-blue.svg)](https://addons.mozilla.org/en-US/firefox/addon/gtodos/)
 This extension is based on these packages:
 
 |Main dependence|Version|Packages|
