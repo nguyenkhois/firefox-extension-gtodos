@@ -1,4 +1,4 @@
-# Firefox extension - gToDos [![gToDos](https://img.shields.io/badge/Firefox%20add--on-v1.0.10-blue.svg)](https://addons.mozilla.org/en-US/firefox/addon/gtodos/)
+# Firefox extension - gToDos [![gToDos](https://img.shields.io/badge/Firefox%20add--on-v1.0.11-blue.svg)](https://addons.mozilla.org/en-US/firefox/addon/gtodos/)
 
 ![Screenshot](./assets/screenshot.png)
 
